@@ -24,13 +24,13 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.ownernomer = "94758179948" //ur number
 global.premium = ['94758179948'] //ur premium number
-global.botname = '©*KALIDU MD BOT' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
+global.botname = '©*KALIDU MD BOT*' //ur bot name
+global.linkz = "https://chat.whatsapp.com/DtdTRveFrwq3h4q3hGMKrp" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
-global.botscript = 'https://github.com/GavinduRukshan/' //script link
+global.botscript = 'https://github.com/Yureshkav/' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark packname
-global.author = "   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.packname = "   👸🏻kalidu md bot👸🏻" //ur sticker watermark packname
+global.author = "   👸🏻kalidu md bot👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
 global.wm = "👸 kalidu md bot 🏻." //ur watermark
 
 // Other
